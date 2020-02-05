@@ -5,7 +5,7 @@ Universidad Nacional de Colombia\
 Computación Visual\
 2019-10-27
 
-[//]: # (Alexander Fagua - @alekzu\)
+Alexander Fagua - @alekzu
 Juan Camilo Vargas - @F1juan
 
 
